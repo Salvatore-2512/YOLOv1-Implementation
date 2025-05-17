@@ -1,16 +1,16 @@
 # YOLOv1 Implementation
 
-This repository contains a simple implementation of the YOLOv1 (You Only Look Once) object detection algorithm, inspired by the original paper:  
-📄 **"You Only Look Once: Unified, Real-Time Object Detection"** (CVPR 2016) by Joseph Redmon et al.
+- This repository contains a simple implementation of the YOLOv1 (You Only Look Once) object detection algorithm, inspired by the original paper:  
+- **"You Only Look Once: Unified, Real-Time Object Detection"** (CVPR 2016) by Joseph Redmon et al.
 
----
+
 
 ## Files
 
 - `YOLOv1 Implementation.ipynb` — Jupyter Notebook with the YOLOv1 code and explanations.
 - `Redmon_You_Only_Look_CVPR_2016_paper.pdf` — Original research paper.
 
----
+
 
 ## Features
 
@@ -19,19 +19,19 @@ This repository contains a simple implementation of the YOLOv1 (You Only Look On
 - Step-by-step explanation inline in notebook (if available).
 - Simple and beginner-friendly code structure.
 
----
 
-## ▶️ Running the Code
 
-1. **Clone this repository**:
-   bash
-  git clone https://github.com/Salvatore-2512/YOLOv1-Implementation.git
+## Running the Code
+
+1. **Clone this repository**: <br>
+   zsh <br> 
+  git clone https://github.com/Salvatore-2512/YOLOv1-Implementation.git <br> 
   cd YOLOv1-Implementation
 
-2. Open the notebook:
+3. Open the notebook:<br>
    jupyter notebook "YOLOv1 Implementation.ipynb"
    
-3. Run each cell to execute the implementation.
+4. Run each cell to execute the implementation.
 
 ## YOLOv1 Summary
 - Treats object detection as a regression problem.
